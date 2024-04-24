@@ -1,4 +1,4 @@
-# TUGAS BESAR Pembelajaran Mesin - IF3270
+# Tugas Besar Pembelajaran Mesin - IF3270
 > Tugas Besar Bagian A: Implementasi Forward Propagation untuk Feed Forward Neural Network
 
 > Tugas Besar Bagian B: Implementasi Mini-batch Gradient Descent
@@ -26,7 +26,7 @@
         <td>13521083</td>
     </tr>
       <tr>
-        <td>3.</td>
+        <td>4.</td>
         <td>Fazel Ginanda</td>
         <td>13521098</td>
     </tr>
@@ -93,7 +93,6 @@ Langkah-langkah proses setup program adalah sebagai berikut:
 
 ## Visualisasi Graf
 ![model_visual](https://github.com/Mifkiyan/Tubes-AI_ANN/assets/91790457/d4f7d0ad-72c7-4e34-a33d-c28701189998)
-
 
 ## Acknowledgements
 - Tuhan Yang Maha Esa
